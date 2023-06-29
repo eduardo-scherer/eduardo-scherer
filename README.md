@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently CEO of <a href="https://guiadosmelhores.com.br">Guia dos Melhores</a>
+  
 <!--
 **eduardo-scherer/eduardo-scherer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
